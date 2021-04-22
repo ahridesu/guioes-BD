@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T18:20:47.236Z" agent="5.0 (Windows)" version="14.6.6" etag="nFPl133KEMVFzXsIwwrB" type="github"><diagram id="ofFMnX_wOpVviD71cPb_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-22T18:29:52.657Z" agent="5.0 (Windows)" etag="bDtDvLlrGDnwDL6KxlXO" version="14.6.6" type="github">
+  <diagram id="ofFMnX_wOpVviD71cPb_" name="Page-1">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="agN8NCIUEAplitH0-BOy-1" value="&lt;u&gt;Name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-2" value="ITEM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-3" value="Type" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-4" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-5" value="&lt;u&gt;Name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-8" value="CRAFTABLE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-9" value="&lt;u&gt;Name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="agN8NCIUEAplitH0-BOy-12" value="NON_CRAFTABLE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
