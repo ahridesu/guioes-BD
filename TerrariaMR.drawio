@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T13:22:12.712Z" agent="5.0 (X11)" etag="JJbA-kplDgzo-oa2BtFu" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T13:24:26.421Z" agent="5.0 (X11)" etag="ixP1DOhPm686mzwyCBqs" version="14.6.13" type="github">
   <diagram id="ofFMnX_wOpVviD71cPb_" name="Page-1">
     <mxGraphModel dx="2858" dy="2313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,10 +150,11 @@
         <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-40" value="Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a6r5Nqrm-hKIFR0Ah1vu-45" target="a6r5Nqrm-hKIFR0Ah1vu-24">
+        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a6r5Nqrm-hKIFR0Ah1vu-45" target="a6r5Nqrm-hKIFR0Ah1vu-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="790" />
+              <mxPoint x="220" y="720" />
+              <mxPoint x="440" y="720" />
               <mxPoint x="440" y="-240" />
               <mxPoint x="100" y="-240" />
             </Array>
@@ -240,8 +241,8 @@
             <mxPoint x="110" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="970" />
-              <mxPoint x="360" y="970" />
-              <mxPoint x="360" y="610" />
+              <mxPoint x="490" y="970" />
+              <mxPoint x="490" y="610" />
               <mxPoint x="100" y="610" />
             </Array>
           </mxGeometry>
@@ -325,6 +326,9 @@
         </mxCell>
         <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-79" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-82" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
