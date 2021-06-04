@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T16:13:22.553Z" agent="5.0 (Windows)" etag="1OO4b7ph9-LQ1NAluo7F" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T16:13:39.233Z" agent="5.0 (Windows)" etag="GE6Hm3vgJSHBxLiNU4d5" version="14.7.6" type="github">
   <diagram id="ofFMnX_wOpVviD71cPb_" name="Page-1">
     <mxGraphModel dx="2683" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-79" value="&lt;u&gt;final_item_name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-79" value="&lt;u&gt;result_item_name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="281" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-82" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
