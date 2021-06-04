@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T13:12:46.076Z" agent="5.0 (X11)" etag="V1te2hXIpk5ym_TBnyb8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T15:11:45.352Z" agent="5.0 (Windows)" etag="yiqhCgk-cphVOPNQmVEF" version="14.7.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="572" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1226" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,7 +299,7 @@
         <mxCell id="BJ1EHL0oxfveW5Hwconi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shape=link;" parent="1" source="5E2hKDB9GJKoZo5l95eh-220" target="5E2hKDB9GJKoZo5l95eh-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5E2hKDB9GJKoZo5l95eh-220" value="sells" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5E2hKDB9GJKoZo5l95eh-220" value="sold by" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5E2hKDB9GJKoZo5l95eh-227" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" parent="1" source="5E2hKDB9GJKoZo5l95eh-222" target="5E2hKDB9GJKoZo5l95eh-224" edge="1">
