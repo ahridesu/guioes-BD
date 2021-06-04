@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T15:34:57.821Z" agent="5.0 (Windows)" etag="dzISOHovGTfs1-d-wqLx" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T16:13:22.553Z" agent="5.0 (Windows)" etag="1OO4b7ph9-LQ1NAluo7F" version="14.7.6" type="github">
   <diagram id="ofFMnX_wOpVviD71cPb_" name="Page-1">
-    <mxGraphModel dx="1863" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2683" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,17 @@
         <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-78" value="&lt;u&gt;station_Name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-79" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zVHPPbBtQL6fCuaXws4n-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a6r5Nqrm-hKIFR0Ah1vu-79" target="a6r5Nqrm-hKIFR0Ah1vu-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="341" y="1570" />
+              <mxPoint x="460" y="1570" />
+              <mxPoint x="460" y="630" />
+              <mxPoint x="130" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-79" value="&lt;u&gt;final_item_name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="281" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a6r5Nqrm-hKIFR0Ah1vu-82" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -350,8 +360,8 @@
         <mxCell id="zVHPPbBtQL6fCuaXws4n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVHPPbBtQL6fCuaXws4n-4" target="a6r5Nqrm-hKIFR0Ah1vu-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="1750" />
-              <mxPoint x="520" y="10" />
+              <mxPoint x="530" y="1750" />
+              <mxPoint x="530" y="10" />
               <mxPoint x="100" y="10" />
             </Array>
           </mxGeometry>
@@ -385,6 +395,9 @@
               <mxPoint x="221" y="1950" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zVHPPbBtQL6fCuaXws4n-17" value="Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
