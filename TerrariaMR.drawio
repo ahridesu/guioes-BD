@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T15:09:58.687Z" agent="5.0 (Windows)" etag="KX3JqyWJ-fganixK0fDU" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T15:13:10.954Z" agent="5.0 (Windows)" etag="BuqU9Df9zf5rTqArE274" version="14.7.6" type="github">
   <diagram id="ofFMnX_wOpVviD71cPb_" name="Page-1">
     <mxGraphModel dx="2945" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -344,6 +344,15 @@
         </mxCell>
         <mxCell id="zVHPPbBtQL6fCuaXws4n-4" value="&lt;u&gt;npc_Name&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVHPPbBtQL6fCuaXws4n-7" value="&lt;u&gt;UIsername1&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVHPPbBtQL6fCuaXws4n-8" value="&lt;u&gt;Username2&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVHPPbBtQL6fCuaXws4n-9" value="pvp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1820" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
